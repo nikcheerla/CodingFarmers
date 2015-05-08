@@ -1,0 +1,65 @@
+
+Board Size: 83
+Deck Size: 61
+
+Card Frequencies: 
+basic1    : 4		basic2    : 5		basic3    : 2		
+basic4    : 3		basic5    : 1		basic6    : 1		
+control1  : 2		control2  : 1		control3  : 1		
+control4  : 2		control5  : 4		control6  : 3		
+control7  : 1		control8  : 4		control9  : 2		
+control10 : 5		flow1     : 2		flow2     : 2		
+flow3     : 0		flow4     : 1		flow5     : 4		
+flow6     : 2		flow7     : 1		flow8     : 1		
+combine1  : 6		combine2  : 1		
+
+Features: [
+Stream going through: [9, 25, 39, 53, 67, 83], 
+Bridge from 64 to 72, 
+Bridge from 30 to 44, 
+Bridge from 35 to 83, 
+Bridge from 58 to 68, 
+Rock at 76, 
+Rock at 71, 
+Rock at 28, 
+Rock at 27, 
+Rock at 33, 
+Rest Area at 62, 
+Rest Area at 11, 
+Rest Area at 12, 
+Rest Area at 22]
+
+Color Pattern: 
+yellow    green     yellow    yellow    yellow    windmill  
+tree      windmill  green     yellow    yellow    tree      
+green     green     yellow    tree      green     green     
+windmill  green     windmill  yellow    tree      tree      
+yellow    yellow    windmill  yellow    green     yellow    
+yellow    yellow    green     green     tree      yellow    
+yellow    green     yellow    yellow    tree      yellow    
+tree      tree      green     green     windmill  green     
+green     yellow    green     yellow    tree      windmill  
+yellow    yellow    tree      yellow    green     green     
+yellow    yellow    green     yellow    yellow    tree      
+yellow    yellow    yellow    green     green     yellow    
+yellow    tree      yellow    yellow    yellow    yellow    
+yellow    green     tree      green     yellow    
+
+
+Simulation data for this game over 100 trials: 
+Mean game length: 11.23
+Deviation in game length: 5.69
+Number of players in the lead: 4.98
+Number of unique players in the lead: 2.68
+Probability of each player winning: [35.0, 21.0, 6.0, 38.0]
+Probability of winning with random strategy: 9.44
+Probability of winning with unsure strategy: 33.07
+Probability of winning with smart strategy: 57.48
+
+
+
+Overall fitness: 10151
+
+
+
+Variable Data: [4, 5, 2, 3, 1, 1, 2, 1, 1, 2, 4, 3, 1, 4, 2, 5, 2, 2, 0, 1, 4, 2, 1, 1, 6, 1, 0, 83, 9, 25, 39, 53, 67, 83, 64, 72, 30, 44, 35, 83, 58, 68, 69, 83, 76, 71, 28, 27, 33, 62, 11, 12, 22, 0, 0, 1, 0, 0, 0, 3, 2, 3, 1, 0, 0, 2, 1, 1, 0, 2, 1, 1, 3, 1, 3, 0, 2, 2, 0, 0, 3, 0, 1, 0, 0, 0, 1, 1, 2, 0, 0, 1, 0, 0, 2, 0, 2, 2, 1, 1, 3, 1, 1, 0, 1, 0, 2, 3, 0, 0, 2, 0, 1, 1, 0, 0, 1, 0, 0, 2, 0, 0, 0, 1, 1, 0, 0, 2, 0, 0, 0, 0, 0, 1, 2, 1, 0, 1, 0, 2, 2, 0, 1, 1, 0, 0, 1, 1, 1, 0, 1, 2, 2, 1, 1, 2, 0, 2, 2, 3, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 2]

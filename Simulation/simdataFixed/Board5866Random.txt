@@ -1,0 +1,71 @@
+
+
+Genetic state for a FarmBoard game: 
+Board Size: 106
+Deck Size: 60
+
+Card Frequencies: 
+basic1    : 1		basic2    : 2		basic3    : 1		
+basic4    : 4		basic5    : 3		basic6    : 4		
+control1  : 2		control2  : 3		control3  : 4		
+control4  : 2		control5  : 1		control6  : 0		
+control7  : 1		control8  : 2		control9  : 1		
+control10 : 4		flow1     : 2		flow2     : 3		
+flow3     : 3		flow4     : 0		flow5     : 5		
+flow6     : 2		flow7     : 0		flow8     : 4		
+combine1  : 2		combine2  : 4		
+
+Features: [
+Stream going through: [6, 31, 49, 75, 91, 104], 
+Bridge from 63 to 106, 
+Bridge from 59 to 80, 
+Bridge from 62 to 87, 
+Bridge from 16 to 30, 
+Bridge from 29 to 74, 
+Rock at 44, 
+Rock at 84, 
+Rock at 7, 
+Rock at 10, 
+Rock at 105, 
+Rest Area at 93, 
+Rest Area at 58, 
+Rest Area at 1, 
+Rest Area at 27]
+
+Color Pattern: 
+yellow    yellow    yellow    yellow    windmill  yellow    
+yellow    green     yellow    yellow    yellow    green     
+tree      yellow    yellow    green     yellow    yellow    
+yellow    green     yellow    yellow    yellow    yellow    
+yellow    yellow    yellow    yellow    yellow    tree      
+yellow    green     yellow    yellow    yellow    green     
+tree      green     yellow    green     tree      green     
+yellow    green     yellow    windmill  yellow    windmill  
+yellow    green     yellow    green     tree      yellow    
+yellow    tree      green     green     yellow    windmill  
+green     yellow    green     green     tree      windmill  
+green     tree      green     yellow    yellow    windmill  
+tree      yellow    yellow    green     yellow    tree      
+yellow    yellow    windmill  yellow    yellow    yellow    
+tree      green     yellow    green     tree      green     
+yellow    yellow    tree      green     green     yellow    
+yellow    yellow    yellow    yellow    yellow    yellow    
+tree      green     green     tree      
+
+
+
+Simulation data for this game over 100 trials: 
+Mean game length: 19.01[19, 15, 12, 11, 12, 23, 15, 16, 19, 23, 17, 16, 21, 17, 10, 18, 12, 13, 39, 16, 13, 15, 17, 19, 22, 11, 9, 17, 31, 20, 33, 19, 8, 20, 16, 33, 16, 21, 25, 21, 16, 20, 27, 24, 16, 17, 16, 25, 19, 23, 45, 6, 29, 6, 17, 20, 19, 25, 27, 12, 24, 18, 15, 10, 19, 7, 10, 38, 27, 7, 14, 26, 18, 30, 26, 14, 25, 12, 18, 17, 27, 9, 28, 13, 19, 14, 10, 16, 12, 21, 28, 18, 20, 17, 21, 33, 30, 17, 14, 20]
+Deviation in game length: 7.0
+Probability of each player winning: [35.0, 12.0, 8.0, 45.0]
+Probability of winning with random strategy: 13.0
+Probability of winning with unsure strategy: 20.0
+Probability of winning with smart strategy: 66.0
+
+
+
+Overall fitness: 5866
+
+
+
+Variable Data: [1, 2, 1, 4, 3, 4, 2, 3, 4, 2, 1, 0, 1, 2, 1, 4, 2, 3, 3, 0, 5, 2, 0, 4, 2, 4, 0, 106, 6, 31, 49, 75, 91, 104, 63, 106, 59, 80, 62, 87, 16, 30, 29, 74, 44, 84, 7, 10, 105, 93, 58, 1, 27, 0, 0, 0, 0, 0, 3, 0, 0, 1, 0, 0, 0, 1, 2, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 1, 0, 0, 0, 1, 2, 1, 0, 1, 2, 1, 0, 1, 0, 3, 0, 3, 0, 1, 0, 1, 2, 0, 0, 2, 1, 1, 0, 3, 1, 0, 1, 1, 2, 3, 1, 2, 1, 0, 0, 3, 2, 0, 0, 1, 0, 2, 0, 0, 3, 0, 0, 0, 2, 1, 0, 1, 2, 1, 0, 0, 2, 1, 1, 0, 0, 0, 0, 0, 0, 0, 2, 1, 1, 2, 0, 0, 0, 0, 1, 2, 0, 1, 0, 0, 0, 2, 2]

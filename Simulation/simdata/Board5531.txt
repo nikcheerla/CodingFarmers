@@ -1,0 +1,64 @@
+
+Board Size: 79
+Deck Size: 88
+
+Card Frequencies: 
+basic1    : 2		basic2    : 4		basic3    : 3		
+basic4    : 6		basic5    : 5		basic6    : 3		
+control1  : 4		control2  : 3		control3  : 3		
+control4  : 3		control5  : 2		control6  : 4		
+control7  : 2		control8  : 6		control9  : 4		
+control10 : 2		flow1     : 1		flow2     : 5		
+flow3     : 1		flow4     : 5		flow5     : 1		
+flow6     : 5		flow7     : 2		flow8     : 4		
+combine1  : 4		combine2  : 4		
+
+Features: [
+Stream going through: [6, 22, 38, 54, 66, 79], 
+Bridge from 42 to 60, 
+Bridge from 55 to 78, 
+Bridge from 13 to 23, 
+Rock at 18, 
+Rock at 43, 
+Rock at 5, 
+Rock at 69, 
+Rock at 44, 
+Rest Area at 65, 
+Rest Area at 27, 
+Rest Area at 40, 
+Rest Area at 58]
+
+Color Pattern: 
+yellow    yellow    windmill  green     tree      yellow    
+yellow    yellow    yellow    tree      tree      tree      
+yellow    yellow    yellow    tree      green     tree      
+green     yellow    tree      yellow    green     yellow    
+green     tree      tree      green     yellow    green     
+yellow    green     yellow    green     tree      yellow    
+green     yellow    yellow    tree      yellow    green     
+green     yellow    yellow    tree      green     tree      
+yellow    yellow    windmill  yellow    windmill  yellow    
+green     yellow    yellow    windmill  tree      green     
+yellow    green     yellow    yellow    windmill  yellow    
+green     green     tree      yellow    tree      yellow    
+yellow    windmill  yellow    yellow    yellow    yellow    
+yellow    
+
+
+Simulation data for this game over 100 trials: 
+Mean game length: 14.16
+Deviation in game length: 5.82
+Number of players in the lead: 5.26
+Number of unique players in the lead: 2.73
+Probability of each player winning: [36.0, 19.0, 2.0, 43.0]
+Probability of winning with random strategy: 3.3
+Probability of winning with unsure strategy: 31.4
+Probability of winning with smart strategy: 65.28
+
+
+
+Overall fitness: 5531
+
+
+
+Variable Data: [2, 4, 3, 6, 5, 3, 4, 3, 3, 3, 2, 4, 2, 6, 4, 2, 1, 5, 1, 5, 1, 5, 2, 4, 4, 4, 0, 79, 6, 22, 38, 54, 66, 79, 42, 60, 55, 78, 13, 23, 61, 79, 53, 79, 18, 43, 5, 69, 44, 65, 27, 40, 58, 0, 0, 0, 3, 1, 2, 0, 0, 0, 0, 2, 2, 2, 0, 0, 0, 2, 1, 2, 1, 0, 2, 0, 1, 0, 1, 2, 2, 1, 0, 1, 0, 1, 0, 1, 2, 0, 1, 0, 0, 2, 0, 1, 1, 0, 0, 2, 1, 2, 0, 0, 3, 0, 3, 0, 1, 0, 0, 3, 2, 1, 0, 1, 0, 0, 3, 0, 1, 1, 2, 0, 2, 0, 0, 3, 0, 0, 0, 0, 0, 3, 0, 3, 0, 1, 2, 0, 0, 3, 1, 2, 2, 1, 0, 1, 1, 0, 0, 2, 1, 0, 1, 1, 0, 1, 0, 2, 0, 0, 1, 0, 1, 0, 2, 0, 0, 0, 1, 1, 0]

@@ -1,0 +1,66 @@
+
+Board Size: 82
+Deck Size: 63
+
+Card Frequencies: 
+basic1    : 6		basic2    : 1		basic3    : 2		
+basic4    : 4		basic5    : 4		basic6    : 1		
+control1  : 1		control2  : 1		control3  : 2		
+control4  : 0		control5  : 5		control6  : 2		
+control7  : 1		control8  : 3		control9  : 3		
+control10 : 2		flow1     : 1		flow2     : 3		
+flow3     : 1		flow4     : 4		flow5     : 4		
+flow6     : 4		flow7     : 2		flow8     : 2		
+combine1  : 2		combine2  : 2		
+
+Features: [
+Stream going through: [7, 19, 36, 55, 71, 82], 
+Bridge from 13 to 37, 
+Bridge from 28 to 48, 
+Bridge from 35 to 60, 
+Bridge from 52 to 65, 
+Bridge from 17 to 26, 
+Rock at 25, 
+Rock at 21, 
+Rock at 8, 
+Rock at 1, 
+Rock at 59, 
+Rest Area at 81, 
+Rest Area at 62, 
+Rest Area at 39, 
+Rest Area at 72]
+
+Color Pattern: 
+yellow    green     yellow    green     windmill  yellow    
+tree      yellow    yellow    yellow    yellow    green     
+green     green     green     tree      windmill  tree      
+yellow    tree      green     yellow    green     green     
+yellow    tree      yellow    green     tree      green     
+tree      yellow    yellow    yellow    green     green     
+yellow    green     yellow    green     green     windmill  
+green     green     yellow    yellow    windmill  yellow    
+yellow    yellow    yellow    yellow    green     windmill  
+tree      yellow    yellow    yellow    green     yellow    
+yellow    yellow    green     yellow    yellow    windmill  
+tree      yellow    yellow    windmill  yellow    yellow    
+windmill  green     yellow    windmill  yellow    yellow    
+yellow    yellow    windmill  tree      
+
+
+Simulation data for this game over 100 trials: 
+Mean game length: 12.78
+Deviation in game length: 4.1
+Number of players in the lead: 5.31
+Number of unique players in the lead: 2.67
+Probability of each player winning: [35.0, 28.0, 3.0, 34.0]
+Probability of winning with random strategy: 4.58
+Probability of winning with unsure strategy: 42.74
+Probability of winning with smart strategy: 52.67
+
+
+
+Overall fitness: 10282
+
+
+
+Variable Data: [6, 1, 2, 4, 4, 1, 1, 1, 2, 0, 5, 2, 1, 3, 3, 2, 1, 3, 1, 4, 4, 4, 2, 2, 2, 2, 0, 82, 7, 19, 36, 55, 71, 82, 13, 37, 28, 48, 35, 60, 52, 65, 17, 26, 25, 21, 8, 1, 59, 81, 62, 39, 72, 0, 0, 1, 0, 1, 3, 0, 2, 0, 0, 0, 0, 1, 1, 1, 1, 2, 3, 2, 0, 2, 1, 0, 1, 1, 0, 2, 0, 1, 2, 1, 2, 0, 0, 0, 1, 1, 0, 1, 0, 1, 1, 3, 1, 1, 0, 0, 3, 0, 0, 0, 0, 0, 1, 3, 2, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 3, 2, 0, 0, 3, 0, 0, 3, 1, 0, 3, 0, 0, 0, 0, 3, 2, 0, 2, 2, 3, 3, 1, 0, 1, 1, 0, 0, 2, 2, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 1, 0, 1, 0, 1, 0, 0, 2, 1, 1, 1, 0, 2, 1]

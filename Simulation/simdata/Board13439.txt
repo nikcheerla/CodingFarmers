@@ -1,0 +1,65 @@
+
+Board Size: 79
+Deck Size: 66
+
+Card Frequencies: 
+basic1    : 1		basic2    : 3		basic3    : 4		
+basic4    : 4		basic5    : 4		basic6    : 4		
+control1  : 4		control2  : 3		control3  : 6		
+control4  : 2		control5  : 3		control6  : 4		
+control7  : 2		control8  : 0		control9  : 1		
+control10 : 2		flow1     : 1		flow2     : 1		
+flow3     : 3		flow4     : 1		flow5     : 1		
+flow6     : 3		flow7     : 3		flow8     : 2		
+combine1  : 2		combine2  : 2		
+
+Features: [
+Stream going through: [7, 25, 43, 57, 76, 79], 
+Bridge from 49 to 71, 
+Bridge from 38 to 66, 
+Bridge from 53 to 79, 
+Bridge from 27 to 60, 
+Rock at 55, 
+Rock at 22, 
+Rock at 63, 
+Rock at 59, 
+Rock at 31, 
+Rest Area at 42, 
+Rest Area at 72, 
+Rest Area at 44, 
+Rest Area at 68]
+
+Color Pattern: 
+yellow    tree      green     green     yellow    green     
+green     tree      yellow    yellow    yellow    green     
+green     green     green     yellow    tree      tree      
+yellow    green     green     green     green     yellow    
+yellow    windmill  yellow    yellow    green     yellow    
+yellow    green     yellow    yellow    windmill  yellow    
+yellow    yellow    yellow    green     windmill  yellow    
+windmill  yellow    tree      yellow    yellow    green     
+yellow    windmill  windmill  windmill  yellow    windmill  
+green     green     green     tree      windmill  green     
+yellow    green     green     yellow    yellow    yellow    
+tree      yellow    windmill  yellow    green     windmill  
+green     green     tree      yellow    green     green     
+windmill  
+
+
+Simulation data for this game over 100 trials: 
+Mean game length: 8.84
+Deviation in game length: 5.09
+Number of players in the lead: 4.2
+Number of unique players in the lead: 2.54
+Probability of each player winning: [31.0, 27.0, 6.0, 36.0]
+Probability of winning with random strategy: 9.02
+Probability of winning with unsure strategy: 40.6
+Probability of winning with smart strategy: 50.37
+
+
+
+Overall fitness: 13439
+
+
+
+Variable Data: [1, 3, 4, 4, 4, 4, 4, 3, 6, 2, 3, 4, 2, 0, 1, 2, 1, 1, 3, 1, 1, 3, 3, 2, 2, 2, 0, 79, 7, 25, 43, 57, 76, 79, 49, 71, 38, 66, 53, 79, 27, 60, 24, 50, 55, 22, 63, 59, 31, 42, 72, 44, 68, 0, 0, 2, 1, 1, 0, 1, 1, 2, 0, 0, 0, 1, 1, 1, 1, 0, 2, 2, 0, 1, 1, 1, 1, 0, 0, 3, 0, 0, 1, 0, 0, 1, 0, 0, 3, 0, 0, 0, 0, 1, 3, 0, 3, 0, 2, 0, 0, 1, 0, 3, 3, 3, 0, 3, 1, 1, 1, 2, 3, 1, 0, 1, 1, 0, 0, 0, 2, 0, 3, 0, 1, 3, 1, 1, 2, 0, 1, 1, 3, 1, 0, 2, 0, 3, 0, 0, 0, 0, 1, 2, 0, 1, 2, 1, 1, 2, 1, 1, 1, 0, 0, 2, 1, 2, 1, 2, 0, 1, 3, 0, 1, 0, 1, 2, 1, 0, 1, 1, 1]

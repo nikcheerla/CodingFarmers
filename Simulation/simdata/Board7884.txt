@@ -1,0 +1,65 @@
+
+Board Size: 80
+Deck Size: 55
+
+Card Frequencies: 
+basic1    : 1		basic2    : 2		basic3    : 3		
+basic4    : 2		basic5    : 1		basic6    : 6		
+control1  : 0		control2  : 3		control3  : 2		
+control4  : 3		control5  : 4		control6  : 2		
+control7  : 2		control8  : 1		control9  : 2		
+control10 : 2		flow1     : 4		flow2     : 1		
+flow3     : 1		flow4     : 1		flow5     : 1		
+flow6     : 3		flow7     : 1		flow8     : 0		
+combine1  : 6		combine2  : 1		
+
+Features: [
+Stream going through: [6, 24, 41, 57, 75, 80], 
+Bridge from 10 to 33, 
+Bridge from 64 to 80, 
+Bridge from 17 to 40, 
+Bridge from 52 to 80, 
+Rock at 20, 
+Rock at 59, 
+Rock at 7, 
+Rock at 12, 
+Rock at 56, 
+Rest Area at 66, 
+Rest Area at 62, 
+Rest Area at 15, 
+Rest Area at 65]
+
+Color Pattern: 
+tree      green     tree      yellow    green     windmill  
+green     yellow    tree      green     green     windmill  
+green     yellow    yellow    green     tree      windmill  
+green     tree      yellow    yellow    green     yellow    
+green     green     green     yellow    yellow    yellow    
+windmill  yellow    green     windmill  yellow    yellow    
+windmill  tree      yellow    yellow    tree      yellow    
+tree      yellow    tree      yellow    green     yellow    
+yellow    yellow    yellow    yellow    green     yellow    
+yellow    yellow    windmill  green     green     yellow    
+tree      windmill  yellow    yellow    yellow    yellow    
+tree      yellow    yellow    yellow    yellow    yellow    
+green     tree      green     yellow    green     green     
+yellow    yellow    
+
+
+Simulation data for this game over 100 trials: 
+Mean game length: 11.81
+Deviation in game length: 5.67
+Number of players in the lead: 4.98
+Number of unique players in the lead: 2.66
+Probability of each player winning: [41.0, 26.0, 4.0, 29.0]
+Probability of winning with random strategy: 6.15
+Probability of winning with unsure strategy: 40.0
+Probability of winning with smart strategy: 53.84
+
+
+
+Overall fitness: 7884
+
+
+
+Variable Data: [1, 2, 3, 2, 1, 6, 0, 3, 2, 3, 4, 2, 2, 1, 2, 2, 4, 1, 1, 1, 1, 3, 1, 0, 6, 1, 0, 80, 6, 24, 41, 57, 75, 80, 10, 33, 64, 80, 11, 25, 17, 40, 52, 80, 20, 59, 7, 12, 56, 66, 62, 15, 65, 0, 2, 1, 2, 0, 1, 3, 1, 0, 2, 1, 1, 3, 1, 0, 0, 1, 2, 3, 1, 2, 0, 0, 1, 0, 1, 1, 1, 0, 0, 0, 3, 0, 1, 3, 0, 0, 3, 2, 0, 0, 2, 0, 2, 0, 2, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 3, 1, 1, 0, 2, 3, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 1, 2, 1, 0, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 1, 0, 2, 0, 1, 0, 0, 1, 0, 0, 0, 1, 2, 0, 2, 2, 2, 1, 2, 0, 0, 2, 2, 0, 0, 2, 3, 0, 2]

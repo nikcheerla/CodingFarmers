@@ -1,0 +1,69 @@
+
+
+Genetic state for a FarmBoard game: 
+Board Size: 80
+Deck Size: 69
+
+Card Frequencies: 
+basic1    : 4		basic2    : 3		basic3    : 2		
+basic4    : 3		basic5    : 3		basic6    : 2		
+control1  : 5		control2  : 3		control3  : 0		
+control4  : 2		control5  : 0		control6  : 4		
+control7  : 6		control8  : 3		control9  : 3		
+control10 : 1		flow1     : 1		flow2     : 0		
+flow3     : 1		flow4     : 3		flow5     : 5		
+flow6     : 3		flow7     : 3		flow8     : 0		
+combine1  : 6		combine2  : 3		
+
+Features: [
+Stream going through: [7, 23, 39, 54, 72, 80], 
+Bridge from 13 to 29, 
+Bridge from 65 to 78, 
+Bridge from 36 to 48, 
+Bridge from 32 to 43, 
+Bridge from 62 to 75, 
+Rock at 53, 
+Rock at 73, 
+Rock at 21, 
+Rock at 8, 
+Rock at 44, 
+Rest Area at 34, 
+Rest Area at 1, 
+Rest Area at 15, 
+Rest Area at 6]
+
+Color Pattern: 
+green     yellow    green     yellow    green     yellow    
+yellow    windmill  tree      green     green     yellow    
+yellow    tree      green     tree      yellow    yellow    
+yellow    yellow    yellow    windmill  yellow    green     
+yellow    green     green     tree      yellow    yellow    
+windmill  tree      green     tree      yellow    green     
+tree      tree      yellow    yellow    green     yellow    
+yellow    windmill  yellow    yellow    yellow    yellow    
+windmill  windmill  yellow    green     yellow    green     
+tree      yellow    yellow    windmill  green     yellow    
+yellow    yellow    green     green     tree      yellow    
+windmill  yellow    windmill  green     windmill  tree      
+green     green     yellow    yellow    yellow    yellow    
+green     windmill  
+
+
+
+Simulation data for this game over 100 trials: 
+Mean game length: 15.27
+Deviation in game length: 5.69
+Number of players in the lead: 6.49
+Number of unique players in the lead: 2.89
+Probability of each player winning: [36.0, 25.0, 2.0, 37.0]
+Probability of winning with random strategy: 3.14
+Probability of winning with unsure strategy: 39.37
+Probability of winning with smart strategy: 57.48
+
+
+
+Overall fitness: 3150
+
+
+
+Variable Data: [4, 3, 2, 3, 3, 2, 5, 3, 0, 2, 0, 4, 6, 3, 3, 1, 1, 0, 1, 3, 5, 3, 3, 0, 6, 3, 0, 80, 7, 23, 39, 54, 72, 80, 13, 29, 65, 78, 36, 48, 32, 43, 62, 75, 53, 73, 21, 8, 44, 34, 1, 15, 6, 2, 1, 0, 1, 0, 1, 0, 0, 3, 2, 1, 1, 0, 0, 2, 1, 2, 0, 0, 0, 0, 0, 3, 0, 1, 0, 1, 1, 2, 0, 0, 3, 2, 1, 2, 0, 1, 2, 2, 0, 0, 1, 0, 0, 3, 0, 0, 0, 0, 3, 3, 0, 1, 0, 1, 2, 0, 0, 3, 1, 0, 0, 0, 1, 1, 2, 0, 3, 0, 3, 1, 3, 2, 1, 1, 0, 0, 0, 0, 1, 3, 0, 2, 0, 3, 2, 0, 0, 3, 0, 0, 0, 1, 0, 0, 1, 1, 0, 0, 0, 1, 1, 1, 0, 1, 1, 0, 0, 0, 0, 0, 3, 0, 0, 1, 3, 1, 1, 0, 2]

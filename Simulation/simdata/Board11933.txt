@@ -1,0 +1,65 @@
+
+Board Size: 81
+Deck Size: 47
+
+Card Frequencies: 
+basic1    : 2		basic2    : 3		basic3    : 2		
+basic4    : 1		basic5    : 1		basic6    : 4		
+control1  : 1		control2  : 2		control3  : 0		
+control4  : 2		control5  : 0		control6  : 1		
+control7  : 1		control8  : 2		control9  : 4		
+control10 : 6		flow1     : 1		flow2     : 3		
+flow3     : 1		flow4     : 1		flow5     : 1		
+flow6     : 3		flow7     : 2		flow8     : 1		
+combine1  : 2		combine2  : 0		
+
+Features: [
+Stream going through: [7, 26, 45, 64, 78, 81], 
+Bridge from 36 to 60, 
+Bridge from 14 to 31, 
+Bridge from 21 to 51, 
+Bridge from 70 to 81, 
+Rock at 43, 
+Rock at 41, 
+Rock at 33, 
+Rock at 8, 
+Rock at 56, 
+Rest Area at 24, 
+Rest Area at 65, 
+Rest Area at 16, 
+Rest Area at 79]
+
+Color Pattern: 
+windmill  yellow    green     yellow    yellow    green     
+yellow    yellow    yellow    yellow    green     green     
+yellow    green     yellow    yellow    yellow    green     
+yellow    yellow    yellow    yellow    windmill  yellow    
+green     yellow    yellow    yellow    yellow    yellow    
+green     tree      yellow    yellow    green     green     
+windmill  yellow    yellow    windmill  green     tree      
+yellow    green     yellow    tree      tree      tree      
+tree      yellow    yellow    yellow    yellow    green     
+green     yellow    green     windmill  yellow    yellow    
+green     tree      windmill  yellow    yellow    green     
+windmill  tree      yellow    tree      yellow    yellow    
+windmill  yellow    yellow    yellow    yellow    tree      
+green     yellow    yellow    
+
+
+Simulation data for this game over 100 trials: 
+Mean game length: 11.5
+Deviation in game length: 5.37
+Number of players in the lead: 5.36
+Number of unique players in the lead: 2.8
+Probability of each player winning: [29.0, 31.0, 4.0, 36.0]
+Probability of winning with random strategy: 5.92
+Probability of winning with unsure strategy: 45.92
+Probability of winning with smart strategy: 48.14
+
+
+
+Overall fitness: 11933
+
+
+
+Variable Data: [2, 3, 2, 1, 1, 4, 1, 2, 0, 2, 0, 1, 1, 2, 4, 6, 1, 3, 1, 1, 1, 3, 2, 1, 2, 0, 0, 81, 7, 26, 45, 64, 78, 81, 36, 60, 14, 31, 37, 74, 21, 51, 70, 81, 43, 41, 33, 8, 56, 24, 65, 16, 79, 0, 3, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 3, 0, 1, 0, 0, 0, 0, 0, 1, 2, 0, 0, 1, 1, 3, 0, 0, 3, 1, 2, 0, 1, 0, 2, 2, 2, 2, 0, 0, 0, 0, 1, 1, 0, 1, 3, 0, 0, 1, 2, 3, 0, 0, 1, 3, 2, 0, 2, 0, 0, 3, 0, 0, 0, 0, 2, 1, 0, 0, 0, 0, 1, 3, 0, 3, 0, 3, 0, 3, 0, 0, 1, 3, 0, 3, 0, 2, 0, 0, 0, 1, 0, 1, 2, 1, 0, 1, 1, 0, 1, 0, 3, 0, 2, 1, 1, 0]

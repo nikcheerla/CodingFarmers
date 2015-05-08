@@ -1,0 +1,9 @@
+Simulation data for this game over 100 trials: 
+Mean game length: 19.38
+Deviation in game length: 8.0
+Number of players in the lead: 8.28
+Number of unique players in the lead: 3.12
+Probability of each player winning: [38.0, 20.0, 2.0, 40.0]
+Probability of winning with random strategy: 3.0
+Probability of winning with unsure strategy: 32.0
+Probability of winning with smart strategy: 63.0

@@ -1,0 +1,64 @@
+
+Board Size: 78
+Deck Size: 58
+
+Card Frequencies: 
+basic1    : 6		basic2    : 4		basic3    : 1		
+basic4    : 5		basic5    : 1		basic6    : 3		
+control1  : 4		control2  : 2		control3  : 1		
+control4  : 2		control5  : 3		control6  : 3		
+control7  : 0		control8  : 1		control9  : 1		
+control10 : 0		flow1     : 0		flow2     : 3		
+flow3     : 0		flow4     : 3		flow5     : 4		
+flow6     : 2		flow7     : 2		flow8     : 1		
+combine1  : 4		combine2  : 2		
+
+Features: [
+Stream going through: [7, 24, 33, 50, 66, 78], 
+Bridge from 57 to 65, 
+Bridge from 28 to 42, 
+Bridge from 67 to 78, 
+Rock at 71, 
+Rock at 21, 
+Rock at 44, 
+Rock at 23, 
+Rock at 73, 
+Rest Area at 63, 
+Rest Area at 47, 
+Rest Area at 61, 
+Rest Area at 72]
+
+Color Pattern: 
+green     yellow    yellow    tree      yellow    yellow    
+green     yellow    yellow    yellow    yellow    green     
+tree      green     green     green     green     yellow    
+green     yellow    yellow    windmill  yellow    green     
+green     yellow    yellow    tree      yellow    green     
+yellow    windmill  tree      green     yellow    yellow    
+yellow    windmill  tree      yellow    yellow    green     
+yellow    yellow    windmill  tree      green     yellow    
+green     green     yellow    yellow    yellow    green     
+tree      yellow    yellow    yellow    green     yellow    
+windmill  yellow    yellow    tree      yellow    yellow    
+yellow    green     yellow    yellow    yellow    green     
+green     yellow    yellow    yellow    green     yellow    
+
+
+
+Simulation data for this game over 100 trials: 
+Mean game length: 12.71
+Deviation in game length: 8.04
+Number of players in the lead: 4.43
+Number of unique players in the lead: 2.57
+Probability of each player winning: [34.0, 20.0, 6.0, 40.0]
+Probability of winning with random strategy: 9.52
+Probability of winning with unsure strategy: 31.74
+Probability of winning with smart strategy: 58.73
+
+
+
+Overall fitness: 7675
+
+
+
+Variable Data: [6, 4, 1, 5, 1, 3, 4, 2, 1, 2, 3, 3, 0, 1, 1, 0, 0, 3, 0, 3, 4, 2, 2, 1, 4, 2, 0, 78, 7, 24, 33, 50, 66, 78, 57, 65, 28, 42, 27, 35, 30, 64, 67, 78, 71, 21, 44, 23, 73, 63, 47, 61, 72, 1, 1, 0, 0, 2, 0, 0, 1, 0, 0, 0, 0, 1, 2, 1, 1, 1, 1, 0, 1, 0, 0, 3, 0, 1, 1, 0, 0, 2, 0, 1, 0, 3, 2, 1, 0, 0, 0, 3, 2, 0, 0, 1, 0, 0, 3, 2, 1, 0, 1, 1, 0, 0, 0, 1, 2, 0, 0, 0, 1, 0, 3, 0, 0, 2, 0, 0, 0, 1, 0, 0, 0, 1, 1, 0, 0, 0, 1, 0, 0, 1, 3, 0, 3, 0, 0, 1, 1, 3, 1, 1, 3, 0, 1, 1, 0, 1, 3, 1, 1, 0, 0, 2, 1, 2, 0, 0, 1, 1, 3, 3, 0, 0, 2, 3, 3, 0, 2, 3, 1]

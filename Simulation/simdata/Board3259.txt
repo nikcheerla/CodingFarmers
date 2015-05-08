@@ -1,0 +1,68 @@
+
+
+Genetic state for a FarmBoard game: 
+Board Size: 79
+Deck Size: 56
+
+Card Frequencies: 
+basic1    : 6		basic2    : 2		basic3    : 2		
+basic4    : 1		basic5    : 1		basic6    : 0		
+control1  : 3		control2  : 2		control3  : 1		
+control4  : 3		control5  : 2		control6  : 2		
+control7  : 3		control8  : 1		control9  : 1		
+control10 : 1		flow1     : 3		flow2     : 4		
+flow3     : 2		flow4     : 1		flow5     : 2		
+flow6     : 5		flow7     : 4		flow8     : 1		
+combine1  : 2		combine2  : 1		
+
+Features: [
+Stream going through: [7, 20, 33, 60, 72, 79], 
+Bridge from 35 to 52, 
+Bridge from 29 to 41, 
+Bridge from 61 to 74, 
+Bridge from 11 to 21, 
+Rock at 4, 
+Rock at 61, 
+Rock at 38, 
+Rock at 42, 
+Rock at 45, 
+Rest Area at 55, 
+Rest Area at 14, 
+Rest Area at 65, 
+Rest Area at 27]
+
+Color Pattern: 
+yellow    yellow    green     green     yellow    tree      
+green     yellow    yellow    yellow    yellow    tree      
+yellow    green     yellow    green     yellow    green     
+green     green     yellow    yellow    yellow    tree      
+yellow    green     tree      green     green     yellow    
+tree      tree      yellow    yellow    green     green     
+green     green     yellow    yellow    yellow    green     
+tree      yellow    yellow    yellow    green     green     
+green     yellow    yellow    green     yellow    yellow    
+yellow    yellow    green     green     green     yellow    
+yellow    yellow    green     yellow    yellow    green     
+green     green     yellow    yellow    tree      yellow    
+green     yellow    yellow    green     green     yellow    
+yellow    
+
+
+
+Simulation data for this game over 100 trials: 
+Mean game length: 15.62
+Deviation in game length: 5.86
+Number of players in the lead: 6.77
+Number of unique players in the lead: 2.89
+Probability of each player winning: [33.0, 23.0, 3.0, 41.0]
+Probability of winning with random strategy: 4.76
+Probability of winning with unsure strategy: 36.5
+Probability of winning with smart strategy: 58.73
+
+
+
+Overall fitness: 3259
+
+
+
+Variable Data: [6, 2, 2, 1, 1, 0, 3, 2, 1, 3, 2, 2, 3, 1, 1, 1, 3, 4, 2, 1, 2, 5, 4, 1, 2, 1, 0, 79, 7, 20, 33, 60, 72, 79, 35, 52, 57, 58, 29, 41, 61, 74, 11, 21, 4, 61, 38, 42, 45, 55, 14, 65, 27, 1, 0, 0, 1, 1, 0, 2, 1, 0, 0, 0, 0, 2, 0, 1, 0, 1, 0, 1, 1, 1, 0, 0, 0, 2, 0, 1, 2, 1, 1, 0, 2, 2, 0, 0, 1, 1, 1, 1, 0, 0, 0, 1, 2, 0, 0, 0, 1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 1, 0, 0, 1, 1, 1, 0, 0, 2, 0, 1, 0, 0, 1, 1, 0, 0, 1, 1, 0, 1, 0, 0, 3, 0, 1, 1, 1, 1, 0, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 1, 2, 0, 1, 1, 1, 3, 2, 0, 1, 1]

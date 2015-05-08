@@ -1,0 +1,66 @@
+
+
+Genetic state for a FarmBoard game: 
+Board Size: 77
+Deck Size: 72
+
+Card Frequencies: 
+basic1    : 3		basic2    : 3		basic3    : 2		
+basic4    : 3		basic5    : 6		basic6    : 1		
+control1  : 1		control2  : 2		control3  : 3		
+control4  : 4		control5  : 1		control6  : 4		
+control7  : 2		control8  : 3		control9  : 5		
+control10 : 4		flow1     : 3		flow2     : 3		
+flow3     : 3		flow4     : 5		flow5     : 1		
+flow6     : 2		flow7     : 1		flow8     : 0		
+combine1  : 2		combine2  : 5		
+
+Features: [
+Stream going through: [7, 19, 31, 49, 69, 77], 
+Bridge from 22 to 37, 
+Bridge from 43 to 57, 
+Bridge from 66 to 77, 
+Rock at 34, 
+Rock at 1, 
+Rock at 52, 
+Rock at 8, 
+Rock at 33, 
+Rest Area at 45, 
+Rest Area at 6, 
+Rest Area at 17, 
+Rest Area at 23]
+
+Color Pattern: 
+windmill  yellow    green     yellow    yellow    yellow    
+windmill  yellow    green     green     tree      yellow    
+tree      yellow    yellow    yellow    windmill  yellow    
+green     windmill  yellow    windmill  windmill  yellow    
+tree      yellow    windmill  yellow    yellow    green     
+yellow    green     yellow    green     green     green     
+yellow    yellow    windmill  yellow    yellow    green     
+green     green     green     yellow    yellow    yellow    
+yellow    tree      yellow    yellow    yellow    windmill  
+tree      green     green     yellow    windmill  yellow    
+tree      yellow    green     tree      tree      tree      
+windmill  yellow    green     yellow    windmill  green     
+yellow    yellow    yellow    yellow    yellow    
+
+
+
+Simulation data for this game over 100 trials: 
+Mean game length: 13.15
+Deviation in game length: 6.11
+Number of players in the lead: 5.05
+Number of unique players in the lead: 2.42
+Probability of each player winning: [45.0, 16.0, 9.0, 30.0]
+Probability of winning with random strategy: 14.4
+Probability of winning with unsure strategy: 25.6
+Probability of winning with smart strategy: 60.0
+
+
+
+Overall fitness: 3252
+
+
+
+Variable Data: [3, 3, 2, 3, 6, 1, 1, 2, 3, 4, 1, 4, 2, 3, 5, 4, 3, 3, 3, 5, 1, 2, 1, 0, 2, 5, 0, 77, 7, 19, 31, 49, 69, 77, 22, 37, 43, 57, 48, 58, 56, 65, 66, 77, 34, 1, 52, 8, 33, 45, 6, 17, 23, 0, 3, 0, 1, 0, 0, 0, 3, 0, 1, 1, 2, 0, 2, 0, 0, 0, 3, 0, 1, 3, 0, 3, 3, 0, 2, 0, 3, 0, 0, 1, 0, 1, 0, 1, 1, 1, 0, 0, 3, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 2, 0, 0, 0, 3, 2, 1, 1, 0, 3, 0, 2, 0, 1, 2, 2, 2, 3, 0, 1, 0, 3, 1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 1, 2, 0, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 3, 0, 0, 3, 0, 0, 1, 2, 3, 0, 0, 3, 1, 1, 1, 2, 1, 0, 3, 1, 3, 2, 0, 3]
